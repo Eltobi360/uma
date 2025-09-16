@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>CRUD Uma Musume</title>
+    <title>CRUD Uma Musume hola desde git</title>
     @vite('resources/css/app.css')
     @vite('resources/js/app.js')
 </head>
