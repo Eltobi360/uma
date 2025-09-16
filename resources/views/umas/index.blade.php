@@ -3,13 +3,13 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>CRUD Uma Musume hola desde git</title>
+    <title>CRUD Uma Musume</title>
     @vite('resources/css/app.css')
     @vite('resources/js/app.js')
 </head>
 <body class="bg-gray-900 text-white min-h-screen flex flex-col items-center p-6">
 
-    <h1 class="text-3xl font-bold text-purple-400 mb-6">CRUD Uma Musume</h1>
+    <h1 class="text-3xl font-bold text-purple-400 mb-6">CRUD Uma Musume hola des git </h1>
 
     {{-- Formulario para crear una Uma --}}
     <div class="w-full max-w-lg bg-gray-800 rounded-2xl shadow-lg p-6 mb-10">
